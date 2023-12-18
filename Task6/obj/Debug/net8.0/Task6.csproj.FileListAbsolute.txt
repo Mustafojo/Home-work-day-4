@@ -1,0 +1,14 @@
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\bin\Debug\net8.0\Task6.exe
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\bin\Debug\net8.0\Task6.deps.json
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\bin\Debug\net8.0\Task6.dll
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\bin\Debug\net8.0\Task6.pdb
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\Task6.dll
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\refint\Task6.dll
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\Task6.pdb
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\C44\day 4\Home work\Task6\obj\Debug\net8.0\ref\Task6.dll
